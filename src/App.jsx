@@ -14,7 +14,7 @@ import CareersLayout from "./layouts/CareersLayout";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Faq from "./pages/help/Faq";
-import Contact, { contactAction } from "./pages/help/contact";
+import Contact, { contactAction } from "./pages/help/Contact";
 import CareersData, { careersDataLoader } from "./pages/careers/CareersData";
 import NotFound from "./pages/NotFound";
 import Careers, { careersFromJSON } from "./pages/careers/Careers";
