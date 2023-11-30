@@ -6,7 +6,7 @@ export default function ErrorData() {
     <div className="error-data">
       <h2>Error</h2>
       <p>{error.message}</p>
-      <Link to="/careers">Back to Careers page</Link>
+      <Link to="/">Back to Homepage</Link>
     </div>
   );
 }
